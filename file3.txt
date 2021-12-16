@@ -1,6 +1,3 @@
 Hello from add_feature1!
-<<<<<<< HEAD
 This line added by user2 !!!!!!!!!
-=======
 This line added by user1
->>>>>>> 779f5d50734cf8f4fbfebbed5bbaac159e39fd08
