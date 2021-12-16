@@ -1,1 +1,2 @@
 Hello from add_feature1!
+This line added by user1
