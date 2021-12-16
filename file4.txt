@@ -1,1 +1,2 @@
 add-feature2
+line from user1 rebase lesson
