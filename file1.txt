@@ -4,3 +4,5 @@ bug fixed
 line changed by user2 fix by user 1 (change from master branch)
 
 changes for commit 1
+
+changes for commit 2
