@@ -1,2 +1,4 @@
 add-feature2
 line from user1 rebase lesson
+
+add commit in master branch
